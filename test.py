@@ -1,1 +1,1 @@
-pritn('Hello Code Plateau 3.0')
+print('Hello Code Plateau 3.0')
